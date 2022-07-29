@@ -20,3 +20,5 @@ Some Xamarin Forum themes (about Hybrid WebView)
 
 ## ..
 AS IS. No support! RnD only.
+
+-- [m][e] 2022
