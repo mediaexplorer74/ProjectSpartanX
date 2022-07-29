@@ -11,8 +11,8 @@
 namespace SampleApp.Samples {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\media\\source\\repos\\SampleApp\\SampleApp\\SampleApp\\Samples\\NullSourceSampl" +
-        "e.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\media\\source\\repos\\mediaexplorer74\\ProjectSpartanX\\SampleApp\\SampleApp\\S" +
+        "amples\\NullSourceSample.xaml")]
     public partial class NullSourceSample : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

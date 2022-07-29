@@ -7,15 +7,15 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="1E0C777E-5AC6-41B0-B9B9-3059FCD1ED89"
-    Publisher="CN=BA3D506B-389F-4141-9FBB-03601F6C2865"
-    Version="1.0.0.0" />
+    Name="ME.ProjectSpartan1"
+    Publisher="CN=media"
+    Version="0.1.2.0" />
 
-  <mp:PhoneIdentity PhoneProductId="ec0cc741-fd3e-485c-81be-68815c480690" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="ec7cc741-f73e-4877-81be-68815c487690" PhonePublisherId="00000000-7007-0007-0000-077000000007"/>
 
   <Properties>
-    <DisplayName>SampleApp.UWP</DisplayName>
-    <PublisherDisplayName>BA3D506B-389F-4141-9FBB-03601F6C2865</PublisherDisplayName>
+    <DisplayName>ME.ProjectSpartan1</DisplayName>
+    <PublisherDisplayName>mediaexplorer</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
@@ -45,6 +45,10 @@
           </uap:ShowNameOnTiles>
         </uap:DefaultTile>
         <uap:SplashScreen Image="Assets\SplashScreen.png" />
+        <uap:InitialRotationPreference>
+          <uap:Rotation Preference="landscape"/>
+          <uap:Rotation Preference="portrait"/>
+          <uap:Rotation Preference="landscapeFlipped"/></uap:InitialRotationPreference>
       </uap:VisualElements>
     </Application>
   </Applications>

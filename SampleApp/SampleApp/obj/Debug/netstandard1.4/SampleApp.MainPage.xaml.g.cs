@@ -11,7 +11,8 @@
 namespace SampleApp {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\media\\source\\repos\\SampleApp\\SampleApp\\SampleApp\\MainPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\media\\source\\repos\\mediaexplorer74\\ProjectSpartanX\\SampleApp\\SampleApp\\M" +
+        "ainPage.xaml")]
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

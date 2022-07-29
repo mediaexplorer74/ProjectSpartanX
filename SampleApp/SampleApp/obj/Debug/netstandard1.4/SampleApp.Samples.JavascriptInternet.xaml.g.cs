@@ -11,8 +11,8 @@
 namespace SampleApp.Samples {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\media\\source\\repos\\SampleApp\\SampleApp\\SampleApp\\Samples\\JavascriptInter" +
-        "net.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\media\\source\\repos\\mediaexplorer74\\ProjectSpartanX\\SampleApp\\SampleApp\\S" +
+        "amples\\JavascriptInternet.xaml")]
     public partial class JavascriptInternet : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

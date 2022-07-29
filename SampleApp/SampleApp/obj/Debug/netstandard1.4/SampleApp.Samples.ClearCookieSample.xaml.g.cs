@@ -11,8 +11,8 @@
 namespace SampleApp.Samples {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\media\\source\\repos\\SampleApp\\SampleApp\\SampleApp\\Samples\\ClearCookieSamp" +
-        "le.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\media\\source\\repos\\mediaexplorer74\\ProjectSpartanX\\SampleApp\\SampleApp\\S" +
+        "amples\\ClearCookieSample.xaml")]
     public partial class ClearCookieSample : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

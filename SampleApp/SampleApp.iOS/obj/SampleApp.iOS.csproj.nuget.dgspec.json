@@ -152,7 +152,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard1.0"
+          "netstandard1.4"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -160,8 +160,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard1.0": {
-            "targetAlias": "netstandard1.0",
+          "netstandard1.4": {
+            "targetAlias": "netstandard1.4",
             "projectReferences": {}
           }
         },
@@ -172,8 +172,8 @@
         }
       },
       "frameworks": {
-        "netstandard1.0": {
-          "targetAlias": "netstandard1.0",
+        "netstandard1.4": {
+          "targetAlias": "netstandard1.4",
           "dependencies": {
             "NETStandard.Library": {
               "target": "Package",

@@ -1,3 +1,0 @@
-C:\Users\media\source\repos\SampleApp\SampleApp\Xam.Plugin.WebView.Droid\obj\Debug\130\MonoAndroid,Version=v13.0.AssemblyAttributes.cs
-C:\Users\media\source\repos\SampleApp\SampleApp\Xam.Plugin.WebView.Droid\obj\Debug\130\build.props
-C:\Users\media\source\repos\SampleApp\SampleApp\Xam.Plugin.WebView.Droid\obj\Debug\130\adb.props

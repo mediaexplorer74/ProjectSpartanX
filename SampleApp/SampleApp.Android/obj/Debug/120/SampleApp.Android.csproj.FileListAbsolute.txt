@@ -1,4 +1,0 @@
-C:\Users\media\source\repos\SampleApp\SampleApp\SampleApp.Android\obj\Debug\120\MonoAndroid,Version=v12.0.AssemblyAttributes.cs
-C:\Users\media\source\repos\SampleApp\SampleApp\SampleApp.Android\obj\Debug\120\build.props
-C:\Users\media\source\repos\SampleApp\SampleApp\SampleApp.Android\obj\Debug\120\adb.props
-C:\Users\media\source\repos\SampleApp\SampleApp\SampleApp.Android\obj\Debug\120\SampleApp.Android.csproj.AssemblyReference.cache

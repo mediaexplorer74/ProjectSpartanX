@@ -2693,7 +2693,7 @@
       },
       "Xam.Plugin.WebView.Abstractions/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v1.0",
+        "framework": ".NETStandard,Version=v1.4",
         "dependencies": {
           "NETStandard.Library": "1.6.1",
           "Newtonsoft.Json": "10.0.3",
@@ -5429,7 +5429,7 @@
       },
       "Xam.Plugin.WebView.Abstractions/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v1.0",
+        "framework": ".NETStandard,Version=v1.4",
         "dependencies": {
           "NETStandard.Library": "1.6.1",
           "Newtonsoft.Json": "10.0.3",
@@ -8201,7 +8201,7 @@
       },
       "Xam.Plugin.WebView.Abstractions/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v1.0",
+        "framework": ".NETStandard,Version=v1.4",
         "dependencies": {
           "NETStandard.Library": "1.6.1",
           "Newtonsoft.Json": "10.0.3",
@@ -10960,7 +10960,7 @@
       },
       "Xam.Plugin.WebView.Abstractions/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v1.0",
+        "framework": ".NETStandard,Version=v1.4",
         "dependencies": {
           "NETStandard.Library": "1.6.1",
           "Newtonsoft.Json": "10.0.3",
@@ -13705,7 +13705,7 @@
       },
       "Xam.Plugin.WebView.Abstractions/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v1.0",
+        "framework": ".NETStandard,Version=v1.4",
         "dependencies": {
           "NETStandard.Library": "1.6.1",
           "Newtonsoft.Json": "10.0.3",
@@ -16486,7 +16486,7 @@
       },
       "Xam.Plugin.WebView.Abstractions/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v1.0",
+        "framework": ".NETStandard,Version=v1.4",
         "dependencies": {
           "NETStandard.Library": "1.6.1",
           "Newtonsoft.Json": "10.0.3",
@@ -19231,7 +19231,7 @@
       },
       "Xam.Plugin.WebView.Abstractions/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v1.0",
+        "framework": ".NETStandard,Version=v1.4",
         "dependencies": {
           "NETStandard.Library": "1.6.1",
           "Newtonsoft.Json": "10.0.3",
@@ -22012,7 +22012,7 @@
       },
       "Xam.Plugin.WebView.Abstractions/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v1.0",
+        "framework": ".NETStandard,Version=v1.4",
         "dependencies": {
           "NETStandard.Library": "1.6.1",
           "Newtonsoft.Json": "10.0.3",

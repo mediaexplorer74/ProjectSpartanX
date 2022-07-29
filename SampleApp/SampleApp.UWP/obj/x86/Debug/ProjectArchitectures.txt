@@ -1,2 +1,0 @@
-C:\Users\media\source\repos\SampleApp\SampleApp\SampleApp.UWP\SampleApp.UWP.csproj;x86
-C:\Users\media\source\repos\SampleApp\SampleApp\Xam.Plugin.WebView.UWP\Xam.Plugin.WebView.UWP.csproj;x86
